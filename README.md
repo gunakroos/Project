@@ -1,1 +1,2 @@
 # Project
+Testing Git functionality
